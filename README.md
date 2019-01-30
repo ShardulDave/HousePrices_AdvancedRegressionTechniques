@@ -14,7 +14,7 @@ the SalePrice variable.
  
 ## Result
 
-* Accuracy using Logistic Regression = 1.0
-* Accuracy using Decision Tree = 0.05414667580534613
-* Accuracy using KNN Classifier = 0.08773132282385196
-* Accuracy using Random Forest Regression = 0.40399259640650076
+* Accuracy using Logistic Regression is 0.005479452054794521
+* Accuracy using Decision Tree is 0.0136986301369863
+* Accuracy using KNN Classifier is 0.00821917808219178
+* Accuracy using Random Forest Regression is 0.40399259640650076
