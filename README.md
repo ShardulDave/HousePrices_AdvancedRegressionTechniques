@@ -11,6 +11,12 @@ the SalePrice variable.
 ## Features
 
 * Total 80 features
+
+## Tools Used
+
+* pandas (https://pandas.pydata.org/)
+* scikit-learn (https://scikit-learn.org/stable/)
+* NumPy (http://www.numpy.org/#)
  
 ## Result
 
