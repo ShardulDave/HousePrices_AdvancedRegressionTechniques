@@ -14,6 +14,7 @@ the SalePrice variable.
 
 ## Tools Used
 
+* Python 3.7 (https://docs.python.org/3/)
 * pandas (https://pandas.pydata.org/)
 * scikit-learn (https://scikit-learn.org/stable/)
 * NumPy (http://www.numpy.org/#)
